@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\bin\Debug\netcoreapp3.1\Backend-POO_Interfaces.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\bin\Debug\netcoreapp3.1\Backend-POO_Interfaces.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\bin\Debug\netcoreapp3.1\Backend-POO_Interfaces.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\bin\Debug\netcoreapp3.1\Backend-POO_Interfaces.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\bin\Debug\netcoreapp3.1\Backend-POO_Interfaces.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\bin\Debug\netcoreapp3.1\Backend-POO_Interfaces.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_Interfaces\obj\Debug\netcoreapp3.1\Backend-POO_Interfaces.genruntimeconfig.cache

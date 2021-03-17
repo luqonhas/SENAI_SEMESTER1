@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\bin\Debug\netcoreapp3.1\Exercise_ConstructorMethods.exe
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\bin\Debug\netcoreapp3.1\Exercise_ConstructorMethods.deps.json
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\bin\Debug\netcoreapp3.1\Exercise_ConstructorMethods.runtimeconfig.json
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\bin\Debug\netcoreapp3.1\Exercise_ConstructorMethods.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\bin\Debug\netcoreapp3.1\Exercise_ConstructorMethods.dll
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\bin\Debug\netcoreapp3.1\Exercise_ConstructorMethods.pdb
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.dll
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.pdb
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Object-oriented programming (OOP) or (POO)\Exercise_ConstructorMethods\obj\Debug\netcoreapp3.1\Exercise_ConstructorMethods.genruntimeconfig.cache

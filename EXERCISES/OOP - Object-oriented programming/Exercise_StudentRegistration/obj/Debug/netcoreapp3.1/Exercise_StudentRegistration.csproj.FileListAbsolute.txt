@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\bin\Debug\netcoreapp3.1\Exercise_StudentRegistration.exe
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\bin\Debug\netcoreapp3.1\Exercise_StudentRegistration.deps.json
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\bin\Debug\netcoreapp3.1\Exercise_StudentRegistration.runtimeconfig.json
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\bin\Debug\netcoreapp3.1\Exercise_StudentRegistration.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\bin\Debug\netcoreapp3.1\Exercise_StudentRegistration.dll
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\bin\Debug\netcoreapp3.1\Exercise_StudentRegistration.pdb
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.dll
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.pdb
+C:\Users\User\Desktop\SENAI_Back-End\EXERCISES\Exercise_StudentRegistration\obj\Debug\netcoreapp3.1\Exercise_StudentRegistration.genruntimeconfig.cache

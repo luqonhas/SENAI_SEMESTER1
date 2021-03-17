@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\Backend-AulaPOO_Encapsulamento.genruntimeconfig.cache

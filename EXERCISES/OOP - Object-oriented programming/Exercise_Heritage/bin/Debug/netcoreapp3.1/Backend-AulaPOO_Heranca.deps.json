@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Backend-AulaPOO_Heranca/1.0.0": {
+        "runtime": {
+          "Backend-AulaPOO_Heranca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend-AulaPOO_Heranca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

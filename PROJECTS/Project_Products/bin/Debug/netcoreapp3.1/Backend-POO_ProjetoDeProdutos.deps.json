@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Backend-POO_ProjetoDeProdutos/1.0.0": {
+        "runtime": {
+          "Backend-POO_ProjetoDeProdutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend-POO_ProjetoDeProdutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

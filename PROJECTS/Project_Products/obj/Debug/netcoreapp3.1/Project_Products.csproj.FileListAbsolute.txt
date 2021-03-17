@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\bin\Debug\netcoreapp3.1\Project_Products.exe
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\bin\Debug\netcoreapp3.1\Project_Products.deps.json
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\bin\Debug\netcoreapp3.1\Project_Products.runtimeconfig.json
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\bin\Debug\netcoreapp3.1\Project_Products.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\bin\Debug\netcoreapp3.1\Project_Products.dll
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\bin\Debug\netcoreapp3.1\Project_Products.pdb
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.dll
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.pdb
+C:\Users\User\Desktop\SENAI_Back-End\PROJECTS\Project_Products\obj\Debug\netcoreapp3.1\Project_Products.genruntimeconfig.cache

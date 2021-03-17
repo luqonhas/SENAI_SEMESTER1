@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\bin\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\bin\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\bin\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\bin\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\bin\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\bin\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-SistemaDeProdutos\obj\Debug\netcoreapp3.1\Backend-SistemaDeProdutos.genruntimeconfig.cache

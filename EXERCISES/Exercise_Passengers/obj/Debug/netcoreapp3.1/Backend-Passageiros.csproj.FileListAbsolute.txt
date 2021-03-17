@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\bin\Debug\netcoreapp3.1\Backend-Passageiros.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\bin\Debug\netcoreapp3.1\Backend-Passageiros.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\bin\Debug\netcoreapp3.1\Backend-Passageiros.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\bin\Debug\netcoreapp3.1\Backend-Passageiros.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\bin\Debug\netcoreapp3.1\Backend-Passageiros.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\bin\Debug\netcoreapp3.1\Backend-Passageiros.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-Passageiros\obj\Debug\netcoreapp3.1\Backend-Passageiros.genruntimeconfig.cache

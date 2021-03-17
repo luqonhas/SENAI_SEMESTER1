@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\bin\Debug\netcoreapp3.1\CalculandoMedia-CSharp.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\bin\Debug\netcoreapp3.1\CalculandoMedia-CSharp.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\bin\Debug\netcoreapp3.1\CalculandoMedia-CSharp.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\bin\Debug\netcoreapp3.1\CalculandoMedia-CSharp.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\bin\Debug\netcoreapp3.1\CalculandoMedia-CSharp.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\bin\Debug\netcoreapp3.1\CalculandoMedia-CSharp.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\CalculandoMedia-CSharp\obj\Debug\netcoreapp3.1\CalculandoMedia-CSharp.genruntimeconfig.cache

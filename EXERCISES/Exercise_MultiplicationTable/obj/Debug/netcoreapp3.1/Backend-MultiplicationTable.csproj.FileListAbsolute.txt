@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\bin\Debug\netcoreapp3.1\Backend-MultiplicationTable.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\bin\Debug\netcoreapp3.1\Backend-MultiplicationTable.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\bin\Debug\netcoreapp3.1\Backend-MultiplicationTable.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\bin\Debug\netcoreapp3.1\Backend-MultiplicationTable.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\bin\Debug\netcoreapp3.1\Backend-MultiplicationTable.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\bin\Debug\netcoreapp3.1\Backend-MultiplicationTable.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-MultiplicationTable\obj\Debug\netcoreapp3.1\Backend-MultiplicationTable.genruntimeconfig.cache

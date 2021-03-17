@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Backend-CadastroAlunos/1.0.0": {
+        "runtime": {
+          "Backend-CadastroAlunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend-CadastroAlunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

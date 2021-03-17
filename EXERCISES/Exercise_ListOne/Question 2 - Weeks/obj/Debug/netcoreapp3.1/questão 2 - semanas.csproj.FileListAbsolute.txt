@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\bin\Debug\netcoreapp3.1\questão 2 - semanas.exe
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\bin\Debug\netcoreapp3.1\questão 2 - semanas.deps.json
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\bin\Debug\netcoreapp3.1\questão 2 - semanas.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\bin\Debug\netcoreapp3.1\questão 2 - semanas.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\bin\Debug\netcoreapp3.1\questão 2 - semanas.dll
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\bin\Debug\netcoreapp3.1\questão 2 - semanas.pdb
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.dll
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.pdb
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 2 - semanas\obj\Debug\netcoreapp3.1\questão 2 - semanas.genruntimeconfig.cache

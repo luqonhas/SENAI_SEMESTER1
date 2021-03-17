@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\Backend-AulaPOO_PolimosrfismoSobreposicao.genruntimeconfig.cache

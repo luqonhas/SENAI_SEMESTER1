@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\bin\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.exe
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\bin\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.deps.json
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\bin\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\bin\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\bin\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.dll
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\bin\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.pdb
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.dll
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.pdb
+C:\Users\dev\Desktop\Backend\Console\Lista de exercícios\questão 1 - mes, dia, min e hr\obj\Debug\netcoreapp3.1\questão 1 - mes, dia, min e hr.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\bin\Debug\netcoreapp3.1\Backend-PrimeiroPOO.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\bin\Debug\netcoreapp3.1\Backend-PrimeiroPOO.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\bin\Debug\netcoreapp3.1\Backend-PrimeiroPOO.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\bin\Debug\netcoreapp3.1\Backend-PrimeiroPOO.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\bin\Debug\netcoreapp3.1\Backend-PrimeiroPOO.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\bin\Debug\netcoreapp3.1\Backend-PrimeiroPOO.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-PrimeiroPOO\obj\Debug\netcoreapp3.1\Backend-PrimeiroPOO.genruntimeconfig.cache

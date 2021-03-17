@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\bin\Debug\netcoreapp3.1\Backend-NotasDosAlunos.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\bin\Debug\netcoreapp3.1\Backend-NotasDosAlunos.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\bin\Debug\netcoreapp3.1\Backend-NotasDosAlunos.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\bin\Debug\netcoreapp3.1\Backend-NotasDosAlunos.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\bin\Debug\netcoreapp3.1\Backend-NotasDosAlunos.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\bin\Debug\netcoreapp3.1\Backend-NotasDosAlunos.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-NotasDosAlunos\obj\Debug\netcoreapp3.1\Backend-NotasDosAlunos.genruntimeconfig.cache

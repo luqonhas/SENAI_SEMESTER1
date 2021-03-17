@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\bin\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\Backend-POO_ProjetoDeProdutos\obj\Debug\netcoreapp3.1\Backend-POO_ProjetoDeProdutos.genruntimeconfig.cache

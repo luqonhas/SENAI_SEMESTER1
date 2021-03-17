@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\bin\Debug\netcoreapp3.1\Idades.exe
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\bin\Debug\netcoreapp3.1\Idades.deps.json
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\bin\Debug\netcoreapp3.1\Idades.runtimeconfig.json
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\bin\Debug\netcoreapp3.1\Idades.runtimeconfig.dev.json
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\bin\Debug\netcoreapp3.1\Idades.dll
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\bin\Debug\netcoreapp3.1\Idades.pdb
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.AssemblyInfo.cs
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.dll
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.pdb
+C:\Users\dev\Desktop\AlternativasFarois-CSharp\Console\Idades\obj\Debug\netcoreapp3.1\Idades.genruntimeconfig.cache
