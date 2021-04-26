@@ -24,6 +24,8 @@ Be directed to the exercises or projects folder.
 <br />
 <a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/tree/main/PROJECTS"><strong> View Projects
 »</strong></a>
+<br>
+<br>
 
 ## Repository Map 🗺️
 
@@ -33,7 +35,7 @@ Be directed to the exercises or projects folder.
 <br>
 <div id='about'/>
 
-## About the Project 🔍
+## About the Repository 🔍
 This repository contains all BACK-END exercises and projects carried out by @luqonhas at the 1st SEMESTER of SYSTEMS DEVELOPMENT at Escola SENAI de Informática. 
 
 The studies in this repository started on <ins>**10/06/2020**</ins> and ended on <ins>**02/09/2021**</ins>.
