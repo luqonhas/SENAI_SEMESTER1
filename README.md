@@ -3,7 +3,7 @@
   <p align="center">
     Repository that has all the BACK-END projects and exercises <br>performed on the 1st SEMESTER of SENAI! 🤓📰
     <br />
-    <a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End"><strong> View Repository
+    <a href="https://github.com/luqonhas/SENAI_SEMESTER1"><strong> View Repository
     »</strong></a>
     <br />
     <br />
@@ -12,17 +12,17 @@
 </p>
 
 ## Translations 👅
-**Portuguese** version available [here](https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/blob/master/README_pt-br.md).
+**Portuguese** version available [here](https://github.com/luqonhas/SENAI_SEMESTER1/blob/master/README_pt-br.md).
 <br>
 <br>
 
 ## Knowledge 📚
 Be directed to the exercises or projects folder.
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/tree/main/EXERCISES"><strong> View Exercises
+<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/EXERCISES"><strong> View Exercises
 »</strong></a>
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/tree/main/PROJECTS"><strong> View Projects
+<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/PROJECTS"><strong> View Projects
 »</strong></a>
 <br>
 <br>
