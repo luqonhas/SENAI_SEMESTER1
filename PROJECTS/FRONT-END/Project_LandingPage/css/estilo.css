@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@700&family=Open+Sans&display=swap');
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+.topo{
+    background-color:  #f9003d;
+    width: 100%;
+    height: 60px;
+}
+.btnMenu{
+    display: none;
+}
+.all-fixed{
+    position: fixed;
+}
+.menu{
+    width: 90%;
+    max-width: 1200px;
+    height: 100%;
+    /* background-color: #ccc; */
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.menu ul{
+    width: 600px;
+    height: 60px;
+    /* background-color: orange; */
+    list-style-type: none; /*remover estilo da lista*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Bebas neue', 'Segoe UI';
+    font-size: 20px;
+    padding: 17px 40px;
+}
+.menu a:hover{
+    background-color: #080424;
+    color:white;
+    text-decoration: underline;
+}
+.banner{
+    width: 100%;
+    height: 540px;
+    background-image: url(../assets/img/imagem-fundo-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.content{
+    max-width: 95%;
+    width: 1200px;
+    height: 100%;
+    /* background-color:rgba(255, 255, 255, 0.4); */
+    margin: auto;
+}
+.alinhando-abaixo{
+    display:flex;
+    align-items: flex-end;
+}
+.banner-text{
+    width: 460px;
+    height: 450px;
+    /* background-color: rgba(000, 100, 100, 0.4); */
+}
+.banner-text h1{
+    font-size: 81.2px;
+    font-family: 'Bebas Neue', cursive;
+    color: #ffffff;
+    border-bottom: solid 2px orange;
+    padding-bottom: 10px;
+}
+.banner-text p{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color:  #f9003d;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 17px;
+}
+.banner-text span{
+    margin-left: 25px;
+}
+.sobre{
+    width: 100%;
+    height: 800px;
+    background-color: #080424;
+}
+.sobre h2{
+    font-family: 'Bebas Neue', 'cursive';
+    color: #f9003d;
+    font-size: 64px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.artigo-sobre{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.artigo-sobre img{
+    width: 95%;
+    max-width: 500px;
+    flex-wrap: 450px;
+}
+.artigo-text-sobre{
+    width: 600px;
+    color: white;
+}
+.artigo-text-sobre h3:nth-child(1){
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.artigo-text-sobre h3:nth-child(2){
+    color:#ffaf00;
+    font-family: 'Bebas Neue', 'cursive';
+    font-size: 64px;
+}
+.artigo-text-sobre p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+}
+/* informações */
+.info{
+    width: 100%;
+    height: 200px;
+    background-image: url(../assets/img/imagem-fundo-info.jpg);
+    background-size: cover;
+}
+.info h4{
+    color: white;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.info p{
+    width: 250px;
+    color: #a259f7;
+    font-size: 28px;
+    border: solid 1px #a259f7;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1em 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.info-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.endereço{
+    width: 100%;
+    height: 500px;
+    background-image: url(../assets/img/imagem-fundo-ranking.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.endereço h2{
+    font-size: 64px;
+    font-family: 'Bebas Neue', 'cursive';
+    color: #ffaf00;
+}
+.end-text{
+    width: 800px;
+    height: 210px;
+    background-color: #010010;
+    border: solid 2px #340b65;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.end-text p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: #a259f7;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.alinhamento-centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.end-text img{
+    position: absolute;
+    right: 20px;
+    top: -80px;
+}
+.rodape{
+    width: 100%;
+    height: 80px;
+    background-color: #f9003d;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+.rodape-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Responsivo do 992 até 1199 */
+@media screen and (max-width: 1199px){
+    .sobre{
+        height: auto;
+        padding-bottom: 4em;
+    }
+    .sobre .content{
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+    }
+    .artigo-sobre{
+        justify-content: center;
+ 
+    }
+    .artigo-sobre img{
+        width: 100%;
+        max-width: 850px;
+        margin-bottom: 2em;
+     
+    }
+    .artigo-text-sobre{
+        width: 800px;
+    }
+ }
+/* Responsivo do 768 até 991 */
+@media screen and (max-width: 991px){
+    .artigo-sobre img{
+        max-width: 700px;
+    
+    }
+    .artigo-text-sobre{
+        width: 90%;
+    }
+    .info-card{
+        text-align: center;
+    }
+    .info p{
+        width: 220px;
+    }
+    .end-text{  
+        width: 700px;
+        flex-direction: column;
+        height: auto;
+        padding: 2em 0;
+    }
+    .endereço{
+        height: auto;
+        padding-bottom: 2em;
+    }
+    .end-text img{
+        position: unset;
+        margin-top: 2em;
+    }
+}
+/* Responsivo do 576 até 767 */
+@media screen and (max-width: 767px){
+    .menu{
+        width: 100%;
+    }
+    .menu ul{
+        width: 100%;
+        height: 350px;
+        background-color: #000;
+        position: absolute;
+        top: 60px;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .menu ul a:hover {
+        background-color: unset;
+    }
+    .btnMenu{
+        display: block;
+    }
+    .banner{
+        padding-top: 150px;
+        height: auto;
+    }
+    .banner-text h1{
+        font-size: 70px;
+    }
+    .banner-text p{
+        font-size: 40px;
+    }
+    .sobre h2{
+        font-size: 60px;
+        text-align: center;
+    }
+    .artigo-sobre h3{
+        font-size: 60px;
+        text-align: center;
+    }
+    .artigo-text-sobre p{
+        font-size:22px;
+    }
+    .info{
+        width: 100%;
+        height: 600px;
+        background-image: url(../assets/img/imagem-fundo-info.jpg);
+        background-size: cover;
+        padding: 3em;
+    }
+    .info-card{
+        text-align: center;
+    }
+    .info p{
+        width: 220px;
+    }
+    .info-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .endereço h2{
+        font-size: 60px;
+        text-align: center;
+        /* padding-top: 40px; */
+    }
+    .end-text p{
+        font-size: 20px;
+        padding-right: 20px;
+    }
+    .end-text img{
+        margin-top: 2em;
+    }
+    .rodape-flex p{
+        padding-top: 5px;
+        font-size: 20px;
+    }
+}
+/* Responsivo do 375 até 575 */
+@media screen and (max-width: 575px){
+    .banner{
+        padding-top: 150px;
+        height: auto;
+    }
+    .banner-text h1{
+        font-size: 60px;
+    }
+    .banner-text p{
+        font-size: 35px;
+    }
+    .sobre h2{
+        font-size: 60px;
+        text-align: center;
+    }
+    .artigo-sobre h3{
+        font-size: 60px;
+        text-align: center;
+    }
+    .info{
+        width: 100%;
+        height: 700px;
+        background-image: url(../assets/img/imagem-fundo-info.jpg);
+        background-size: cover;
+    }
+    .info-card{
+        text-align: center;
+        padding: 3em;
+    }
+    .info p{
+        width: 220px;
+    }
+    .info-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .endereço h2{
+        font-size: 60px;
+        text-align: center;
+        padding-top: 40px;
+    }
+    .end-text p{
+        font-size: 20px;
+        padding-right: 20px;
+    }
+    .end-text img{
+        /* position: unset; */
+        margin-top: 2em;
+    }
+    .rodape{
+        margin-top: 15px;
+    }
+    .rodape-flex p{
+        padding-top: 5px;
+        font-size: 15px;
+    }
+}

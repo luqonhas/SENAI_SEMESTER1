@@ -1,7 +1,7 @@
-  <h2 align="center">1° SEMESTRE - BACK-END</h2>
+  <h2 align="center">1° SEMESTRE - FRONT-END & BACK-END</h2>
 
   <p align="center">
-    Repositório que possui todos os projetos e exercícios <br>de BACK-END realizados no 1º SEMESTRE do SENAI! 🤓🔙
+    Repositório que possui todos os projetos e exercícios <br>de FRONT-END e BACK-END realizados no 1º SEMESTRE do SENAI! 🤓📰🔙
     <br />
     <a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End"><strong> Ver Repositório
     »</strong></a>
@@ -34,9 +34,9 @@ Seja direcionado para a pasta de exercícios ou de projetos.
 <div id='about'/>
 
 ## Sobre o Repositório 🔍
-Nesse repositório possui todos os exercícios e projetos de BACK-END realizados pelo @luqonhas no 1º SEMESTRE de DESENVOLVIMENTO DE SISTEMAS na Escola SENAI de Informática.
+Nesse repositório possui todos os exercícios e projetos de FRONT-END e BACK-END realizados pelo @luqonhas no 1º SEMESTRE de DESENVOLVIMENTO DE SISTEMAS na Escola SENAI de Informática.
 
-Os estudos que estão neste repositório foram iniciados em <ins>**06/10/2020**</ins> e foram finalizados em <ins>**09/02/2021**</ins>.
+Os estudos que estão neste repositório foram iniciados em <ins>**08/09/2020**</ins> e foram finalizados em <ins>**09/02/2021**</ins>.
 <br>
 <br>
 <br>
@@ -44,7 +44,7 @@ Os estudos que estão neste repositório foram iniciados em <ins>**06/10/2020**<
 <div id = "tec"/>
 
 ## Tecnologias Aprendidas 🤖
-Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e boas práticas) que foram aprendidas durante todo 1° SEMESTRE de BACK-END.
+Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e boas práticas) que foram aprendidas durante todo 1° SEMESTRE.
 
 * _**GERENCIAMENTO DE TEMPO**_ ⏱️
   * **<ins>Trello**</ins> : Programa utilizado para a organização de tarefas.
@@ -56,6 +56,13 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
 
 <br>
 
+* _**FRONT-END**_ 📰
+  * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas dos exercícios e projetos;
+  * **<ins>CSS3**</ins> : "Folha de estilo" que é utilizada para dar aparência para as estruturas das páginas dos exercícios e projetos;
+  * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas dos exercícios e projetos.
+
+<br>
+
 * _**BACK-END**_ 🔙
   * **<ins>Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o BACK-END e o FRONT-END;
   * **<ins>PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
@@ -63,13 +70,6 @@ Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e bo
   * **<ins>.NET**</ins> : Framework de plataforma que oferece uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento dos exercícios e projetos;
   * **<ins>Arquivos CSV**</ins> : Arquivo de texto que consegue armazenar as informações em tabelas como um Excel e, quando uma dessas informações fossem necessárias, são facilmente buscados no CSV;
   * **<ins>MVC**</ins> : Arquitetura de software que foi utilizado nos projetos para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
-
-<br>
-
-* _**FRONT-END**_ 📰
-  * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas dos exercícios e projetos;
-  * **<ins>CSS3**</ins> : "Folha de estilo" que é utilizada para dar aparência para as estruturas das páginas dos exercícios e projetos;
-  * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas dos exercícios e projetos.
 <br>
 <div id="contact"/>
 

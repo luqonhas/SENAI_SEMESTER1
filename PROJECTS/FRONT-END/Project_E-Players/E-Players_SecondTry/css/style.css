@@ -1,0 +1,583 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+:root{
+
+    --background: #000000;
+    --red: #C20000;
+    --blue: #001F70;
+    --black1: #1E1C21;
+    --gradient: linear-gradient(180deg, rgba(83, 83, 83, 0.5) 0%, #000000 100%);
+
+    --font: 'Titillium Web', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var( --font );
+    font-size: 16px;
+    background-color: var( --background );
+}
+img{
+    width: 100%;
+}
+.topo{
+    width: 100%;
+    height: 5em;
+    /* background-color: azure; */
+}
+.content{
+    width: 95%;
+    height: 100%;
+    max-width: 75em;
+    margin: auto;
+    /* background-color: burlywood; */
+}
+.flex-center-bt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topo img{
+    max-width: 21.18em;
+
+}
+.menu{
+    width: 100%;
+    max-width: 50em;
+}
+.menu ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    padding: 0.9em 0.5em;
+    text-transform: uppercase;
+}
+.menu a:hover{
+    background-color: var(--red);
+}
+#menu-bars{
+    display: none;
+}
+.banner{
+    width: 100%;
+    position: relative;
+}
+.banner-position{
+    width: 100%;
+    height: 100%;
+    /* background-color: rgba(0, 0, 255, 0.377); */
+    position: absolute;
+    top: 0;
+}
+.banner-content{
+    width: 95%;
+    height: 100%;
+    /* background-color: rgba(222, 184, 135, 0.356); */
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.banner-text{
+    width: 50%;
+    height: 100%;
+    /* background-color: chartreuse; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.banner-text h1{
+    font-size: 5.62em;
+}
+.banner-text p{
+    font-size: 1.87em;
+}
+.banner-text a{
+    font-size: 1.87em;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    background-color: var(--red);
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    margin-top: 1em;
+}
+.jogos{
+    width: 100%;
+    height: 7.5em;
+    color:#fff;
+    /* background-color: chartreuse; */
+}
+.jogos ul{
+    list-style-type: none;
+    width: 100%;
+}
+.jogos ul a:hover img{
+    transition: 0.2s;
+    transform: scale(1.1);
+}
+
+.about{
+    width: 100%;
+    height: 31.25em;
+    background-color: var(--blue);
+    position: relative;
+
+}
+.about-angulation{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.angulation{
+    width: 100%;
+    height: 24em;
+    background-color: #000;
+    transform: skewY(-3deg)
+}
+.about-position{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
+.about-text{
+    width: 50%;
+    color: #fff;
+    text-align: justify;
+}
+.about-text h2{
+    font-size: 2.18em;
+    margin-bottom: 0.5em;
+
+}
+.about-text p{
+    font-size: 1.125em;
+    margin-bottom: 1em;
+}
+.about-position img{
+    max-width: 31.87em;
+}
+.jogos-aovivo, .jogos-embreve{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.575em; /*25,12px*/
+    /* border-right:solid 1px #fff; */
+}
+.jogos-aovivo h2, .jogos-embreve h2{
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+.linha{
+    
+    height: 3em;
+    border:solid 1px #fff;
+}
+
+.partida{
+    width: 9.5em;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 1em;
+}
+.partida img{
+    max-width: 1.8em; /*54px*/
+}
+.time1, .time2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 400;
+
+}
+.time1 img{
+    margin-left: 0.5em;
+}
+.time2 img{
+    margin-right: 0.5em;
+}
+.bg-noticias{
+    width: 100%;
+    height: auto;
+    background-color: var(--black1);
+}
+.noticias{
+    width: 70%;
+    height: 90%;
+    /* background-color: darkgray; */
+}
+.noticias h2, .proximos-jogos h2{
+    color: #fff;
+    margin: 0.5em 0;
+    font-size: 2.1875em;
+    text-transform: uppercase;
+}
+.proximos-jogos{
+    width: 23%;
+    height:auto;
+}
+.newscard{
+    width: 100%;
+    max-width: 15em;
+    height: 23.125em;
+    background: var(--gradient);
+    color: #fff;
+    margin-bottom: 1.5em;
+    box-shadow: 0px 0px 15px rgb(59, 59, 59);
+}
+.noticias h3{
+    padding: 0.5em;
+    text-transform: uppercase;
+}
+.noticias p{
+    padding: 0em 0.7em;
+    /* text-align: justify; */
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.proximas-partidas{
+    width: 100%;
+    background: var(--gradient);
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 0px 15px rgb(59, 59, 59);
+
+
+
+}
+.game{
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:#fff;
+}
+.times{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.times div{
+    display: flex;
+    align-items: center;
+}
+.times p{
+    font-size: 1.25em;
+    font-family: 'Roboto';
+}
+.times > p{
+    margin: 0 1em;
+}
+.times img{
+    width: 2.5em;
+}
+.rodape{
+    padding: 1em 0;
+    color:#fff;
+}
+.logo-rodape{
+    max-width: 18.75em;
+}
+.links-footer{
+    width: 33%;
+    display: flex;
+    justify-content: space-between;
+}
+.links h2{
+    font-size: 1.5em;
+    color: #fff;
+
+}
+.links ul{
+    color:#fff;
+    margin-top: 0.5em;
+}
+.links li{
+    margin-left: 2em;
+}
+.links a{
+    text-decoration: none;
+    color:#fff;
+}
+.sociais{
+    width: 33%;
+
+}
+.newslatter h2{
+    font-size: 0.875em;
+    margin-bottom: 0.5em;
+}
+.newslatter form{
+    display: flex;
+}
+.newslatter input[type="email"]{
+    width: 12.5em;
+    height: 2.5em;
+    font-size: 1.1em;
+    padding-left: 1em;
+}
+.newslatter input[type="email"]::placeholder{
+    color: rgb(102, 102, 102);
+    font-weight: bold;
+}
+.newslatter input[type="submit"]{
+    width: 9.75em;
+    height: 2.5em;
+    font-size: 1.1em;
+    background-color: #8326EF;
+    color: #fff;
+    text-transform: uppercase;
+}
+.siga-nos{
+    margin-top: 1em;
+}
+/* página cadastro */
+
+
+
+
+
+/* Até 992px até 1199px */
+@media screen and (max-width: 74.93em){
+    .menu a{
+        font-size: 1.4em;
+        padding: 0.7em 0.5em;
+    }
+    .banner-text h1{
+        font-size: 3.62em;
+    }
+    .banner-text p{
+        font-size: 1.5em;
+    }
+    .banner-text a{
+        font-size: 1.4em;
+    }
+    .flex-center-bt li a img{
+        width: 82%;
+    }
+    .about-position img {
+        max-width: 30em;
+    }
+    .jogos-aovivo h2, .jogos-embreve h2 {
+        font-size: 1em;
+    }
+    .partida img {
+        max-width: 1.4em;
+    }
+    .jogos-aovivo, .jogos-embreve {
+        font-size: 1.45em;
+    }
+    .newscard {
+        max-width: 13em;
+        height: 24em;
+    }
+    .noticias h2, .proximos-jogos h2 {
+        font-size: 1.5em;
+    }
+    .noticias p {
+        padding: 0em 0.7em;
+    }
+    .proximas-partidas {
+        height: 600px;
+        justify-content: space-between;
+    }
+    .game{
+        width: 80%;
+        padding: 1em;
+    }
+    .proximos-jogos{
+        padding-bottom: 13.125em;
+    }
+    .sociais {
+    width: 25%;
+    }   
+    .newslatter h2{
+        text-align: center;
+    }
+    .newslatter input[type="email"]{
+        width: 6.5em;
+    }
+    .siga-nos{
+        font-size: 0.8em;
+    }
+}
+
+
+
+/* Responsivo do 768 até 991 */
+@media screen and (max-width: 61.93em){
+    .topo img{
+        width: 100%;
+        max-width: 15em;
+        display: block;
+    }
+
+    .content{
+        width: 93%;
+    }
+
+    .flex-center-bt{
+        justify-content: space-between;
+    }
+    
+    .menu{
+        display: none;
+    }
+    
+    #header-bars{
+        display: inline;
+        font-size: 40px;
+        color: white;
+    }
+    #menu-response{
+        display: block;
+        font-size: 20px;
+        color: white;
+    }
+
+    .menu-header-response {
+        display: none;
+    }
+
+    .menu-header-response a{
+        width: 100%;
+        display: block;
+        text-align: center;
+        padding: 0.4em 0.22em;
+        color: white;
+        font-size: 1em;
+        text-transform: uppercase;
+    }
+    .banner{
+        height: 310px;
+     }
+
+     .banner-text{
+         padding-top: 2em;
+         height: 60%;
+     }
+    .banner-text h1{
+        font-size: 50px;
+    }
+
+    .banner-text p{
+        font-size: 20px;
+    }
+
+    .banner-text a{
+        font-size: 20px;
+        padding: 5px 30px;
+        top: 25px;
+    }
+    #csgohide{
+        display: none;
+    }
+    .about-text{
+        height: 300px;
+    }  
+    .about-text h2{
+        font-size: 1.29em;
+        text-align: center;
+    } 
+    .about-position img {
+        max-width: 26em;
+    }
+    .newscard:nth-child(1){
+        display: none;
+    }
+    .newscard:nth-child(2){
+        display: none;
+    }
+    .newscard:nth-child(3){
+        display: none;
+    }
+    .newscard:nth-child(4){
+        display: none;
+    }
+    .bg-noticias{
+        height: 34.375em;
+    }
+    .proximas-partidas{
+        height: 450px;
+        padding: 1em 0.5em;
+    }
+    .proximos-jogos{
+        padding-bottom: 0.5em;
+    }
+    .game:nth-child(1){
+        display: none;
+    }
+    .game:nth-child(2){
+        display: none;
+    }
+    .game:nth-child(3){
+        display: none;
+    }
+    .noticias h2, .proximos-jogos h2 {
+        font-size: 1.2em;
+    }
+    .times p{
+        font-size: 0.9em;
+    }
+    .siga-nos, .newslatter input[type="email"], .newslatter{
+        display: none;
+    }
+    .links{
+        display: none;
+    }
+    .rodape {
+        padding: 3em 0;
+    }
+}
+
+
+/* Responsivo do 576 até 767 */
+@media screen and (max-width: 47.93em){
+    .banner-text h1 {
+        font-size: 30px;
+    }
+    .banner-text p {
+        font-size: 15px;
+    }
+    .banner{
+        height: 220px;
+    }
+    .about-position img {
+        max-width: 21em;
+    }
+    .about-text p {
+        font-size: 0.9em;
+    }
+    .proximos-jogos {
+        width: 35%;
+    }
+    .newscard:nth-child(5){
+        display: none;
+}
+
+
+/* Responsivo 375px */
+@media screen and (max-width: 23.93em){
+    
+}
