@@ -1,4 +1,4 @@
-  <h2 align="center">1st SEMESTER - BACK-END</h2>
+  <h2 align="center">1st SEMESTER - FRONT-END & BACK-END</h2>
 
   <p align="center">
     Repository that has all the BACK-END projects and exercises <br>performed on the 1st SEMESTER of SENAI! 🤓📰
