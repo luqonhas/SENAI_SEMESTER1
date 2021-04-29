@@ -3,7 +3,7 @@
   <p align="center">
     Repositório que possui todos os projetos e exercícios <br>de FRONT-END e BACK-END realizados no 1º SEMESTRE do SENAI! 🤓📰🔙
     <br />
-    <a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End"><strong> Ver Repositório
+    <a href="https://github.com/luqonhas/SENAI_SEMESTER1"><strong> Ver Repositório
     »</strong></a>
     <br />
     <br />
@@ -12,17 +12,17 @@
 </p>
 
 ## Traduções 👅
-Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/blob/master/README.md).
+Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/SENAI_SEMESTER1/blob/master/README.md).
 <br>
 <br>
 
 ## Conhecimentos 📚
 Seja direcionado para a pasta de exercícios ou de projetos.
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/tree/main/EXERCISES"><strong> Ver Exercícios
+<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/EXERCISES"><strong> Ver Exercícios
 »</strong></a>
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER1_Back-End/tree/main/PROJECTS"><strong> Ver Projetos
+<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/PROJECTS"><strong> Ver Projetos
 »</strong></a>
 
 ## Mapa do Repositório 🗺️
