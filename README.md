@@ -1,9 +1,9 @@
-  <h2 align="center">1st SEMESTER - FRONT-END & BACK-END</h2>
+  <h2 align="center">1° SEMESTRE - FRONT-END & BACK-END</h2>
 
   <p align="center">
-    Repository that has all the BACK-END projects and exercises <br>performed on the 1st SEMESTER of SENAI! 🤓📰
+    Repositório que possui todos os projetos e exercícios <br>de FRONT-END e BACK-END realizados no 1º SEMESTRE do SENAI! 🤓📰🔙
     <br />
-    <a href="https://github.com/luqonhas/SENAI_SEMESTER1"><strong> View Repository
+    <a href="https://github.com/luqonhas/SENAI_SEMESTER1"><strong> Ver Repositório
     »</strong></a>
     <br />
     <br />
@@ -11,69 +11,68 @@
   </p>
 </p>
 
-## Translations 👅
-**Portuguese** version available [here](https://github.com/luqonhas/SENAI_SEMESTER1/blob/master/README_pt-br.md).
+## Traduções 👅
+Versão em **Inglês** disponível [aqui](https://github.com/luqonhas/SENAI_SEMESTER1/blob/master/README.md).
 <br>
 <br>
 
-## Knowledge 📚
-Be directed to the exercises or projects folder.
+## Conhecimentos 📚
+Seja direcionado para a pasta de exercícios ou de projetos.
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/EXERCISES"><strong> View Exercises
+<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/EXERCISES"><strong> Ver Exercícios
 »</strong></a>
 <br />
-<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/PROJECTS"><strong> View Projects
+<a href="https://github.com/luqonhas/SENAI_SEMESTER1/tree/main/PROJECTS"><strong> Ver Projetos
 »</strong></a>
-<br>
-<br>
 
-## Repository Map 🗺️
+## Mapa do Repositório 🗺️
 
-* [About the Project 🔍](#about)
-* [Learned Technologies 🤖](#tec)
-* [Contact! 🎉](#contact)
+* [Sobre o Repositório 🔍](#about)
+* [Tecnologias Aprendidas 🤖](#tec)
+* [Entre em Contato! 🎉](#contact)
 <br>
 <div id='about'/>
 
-## About the Repository 🔍
-This repository contains all the FRONT-END and BACK-END exercises and projects carried out by @luqonhas in the 1st SEMESTER OF SYSTEMS DEVELOPMENT at Escola SENAI de Informática.
+## Sobre o Repositório 🔍
+Nesse repositório possui todos os exercícios e projetos de FRONT-END e BACK-END realizados pelo @luqonhas no 1º SEMESTRE de DESENVOLVIMENTO DE SISTEMAS na Escola SENAI de Informática.
 
-The studies in this repository started on <ins>**09/08/2020**</ins> and ended on <ins>**02/09/2021**</ins>.
+Os estudos que estão neste repositório foram iniciados em <ins>**08/09/2020**</ins> e foram finalizados em <ins>**09/02/2021**</ins>.
 <br>
 <br>
 <br>
+
 <div id = "tec"/>
 
-## Learned Technologies 🤖
-Here are all the technologies (both programs used, as well as methods and good practices) that have been learned throughout the 1st SEMESTER.
+## Tecnologias Aprendidas 🤖
+Aqui são todas as tecnologias (tanto programas utilizados, quanto métodos e boas práticas) que foram aprendidas durante todo 1° SEMESTRE.
 
-* _**TIME MANAGEMENT**_ ⏱️
-  * **<ins>Trello**</ins> : Program used for organizing tasks.
+* _**GERENCIAMENTO DE TEMPO**_ ⏱️
+  * **<ins>Trello**</ins> : Programa utilizado para a organização de tarefas.
 
 <br>
 
 * _**UI/UX**_ 🎨
-  * **<ins>Figma**</ins> : Program used to create high and low fidelity layouts.
+  * **<ins>Figma**</ins> : Programa utilizado para criar os Layouts de alta e baixa fidelidade.
 
 <br>
 
 * _**FRONT-END**_ 📰
-  * **<ins>HTML5**</ins> : Markup language used to develop the structures of the pages of the exercises and projects;
-  * **<ins>CSS3**</ins> : "Cascading Style Sheet" that is used to give appearance to the page structures of the exercises and projects;
-  * **<ins>JavaScript**</ins> : Programming language used to upgrade the visual presentation of the pages of the exercises and projects.
+  * **<ins>HTML5**</ins> : Linguagem de marcação utilizada para desenvolver as estruturas das páginas dos exercícios e projetos;
+  * **<ins>CSS3**</ins> : "Folha de estilo" que é utilizada para dar aparência para as estruturas das páginas dos exercícios e projetos;
+  * **<ins>JavaScript**</ins> : Linguagem de programação utilizada para dar um upgrade na apresentação visual das páginas dos exercícios e projetos.
 
 <br>
 
 * _**BACK-END**_ 🔙
-  * **<ins>Scrum Methodology**</ins> : Methodology used to separate tasks into scopes (sprints), such as BACK-END and FRONT-END;
-  * **<ins>PascalCase & camelCase**</ins> : Good practices used to visually organize the code better;
-  * **<ins>C# Language**</ins> : Programming language that was used throughout the 1st SEMESTER of BACK-END;
-  * **<ins>.NET**</ins> : Platform framework that offers a standard library, a compiler and a "virtual machine" for the development of exercises and projects;
-  * **<ins>CSV Files**</ins> : Text file that can store the information in tables as an Excel and, when one of these information is needed, it is easily retrieved from the CSV;
-  * **<ins>MVC**</ins> : Software architecture that was used in the projects for the separation of concepts in three interconnected layers, the Model-View-Controller.
+  * **<ins>Metodologia Scrum**</ins> : Metodologia utilizado para separar as tarefas em escopos (sprints), como o BACK-END e o FRONT-END;
+  * **<ins>PascalCase e camelCase**</ins> : Boas práticas utilizadas para organizar visualmente melhor o código;
+  * **<ins>Linguagem C#**</ins> : Linguagem de programação que foi utilizada durante todo o 1° SEMESTRE de BACK-END;
+  * **<ins>.NET**</ins> : Framework de plataforma que oferece uma biblioteca padrão, um compilador e uma "máquina virtual" para desenvolvimento dos exercícios e projetos;
+  * **<ins>Arquivos CSV**</ins> : Arquivo de texto que consegue armazenar as informações em tabelas como um Excel e, quando uma dessas informações fossem necessárias, são facilmente buscados no CSV;
+  * **<ins>MVC**</ins> : Arquitetura de software que foi utilizado nos projetos para a separação de conceitos em três camadas interconectadas, o Model-View-Controller.
 <br>
 <div id="contact"/>
 
-## Contact! 🎉
+## Entre em Contato! 🎉
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Apolinário-%231572B6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqonhas/)](https://www.linkedin.com/in/luqonhas/)
 ![Gmail Badge](https://img.shields.io/badge/-apolinariodev@gmail.com-CC2927?style=flat-square&logo=Gmail&logoColor=white)
